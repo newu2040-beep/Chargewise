@@ -1,0 +1,6 @@
+{
+  "name": "ChargeWise",
+  "description": "Real-time battery health, charging cycles monitor, temperature alarms, pastel themes, and PDF reports generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
